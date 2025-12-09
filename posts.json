@@ -1,0 +1,19 @@
+[
+  {
+    "id": "9fa78d76-3be3-4dd8-b153-1264294cb1c1",
+    "author": {
+      "id": "user-mock-1765294550059",
+      "username": "bebrazui",
+      "name": "bebrazui",
+      "avatarUrl": "https://i.pravatar.cc/150?u=bebrazui"
+    },
+    "content": "уыва",
+    "category": "other",
+    "imageUrl": "",
+    "likes": 0,
+    "comments": [],
+    "commentCount": 0,
+    "shares": 0,
+    "createdAt": "2025-12-09T15:35:59.199Z"
+  }
+]
